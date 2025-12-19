@@ -26,6 +26,6 @@ O uso de LTN permite combinar aprendizado neural com conhecimento simbólico, to
 ---
 
 # **Arquivos do projeto**
-- 📓 [Notebook do Projeto](./Trabalho%203.ipynb)
+- 📓 [Notebook do Projeto](./UFAM_FIA_TP3&F.ipynb)
 - 🖼️ [Imagem usado como referência no Notebook](./imagem.jpeg)
 
